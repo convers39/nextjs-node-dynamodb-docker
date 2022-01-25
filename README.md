@@ -36,7 +36,7 @@ AWS_REGION=ap-northeast-1
 3. create env file for client and server container
 
 ```bash
-touch client/.env server/.env
+touch client/.env.local server/.env.local
 ```
 
 You may specify environment variables in those files respectively.

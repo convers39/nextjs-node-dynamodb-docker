@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "dependencies": {
+    "dynamodb-admin": "^4.1.0"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "db-admin",
+  "scripts": {
+    "start": "dynamodb-admin"
+  },
+  "version": "1.0.0"
+}
